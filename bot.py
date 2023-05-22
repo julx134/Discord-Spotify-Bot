@@ -281,7 +281,7 @@ async def this_shit_bussin(ctx):
 
 	await vc.disconnect()
 
-client.run('NzkyNDg2NzEyOTgyMjQxMzEx.X-eaxA.qyyrRZTNa-80RnO2rfc8zy5sSKM')
+client.run('${bot_token}')
 
 
 
