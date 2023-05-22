@@ -1,6 +1,8 @@
 # Discord-Spotify-Bot
 This is a simple Discord bot written in Python that can play music from YouTube using the Discord voice chat feature. The bot uses the discord, spotipy, youtube_dl, and ffmpeg libraries for interacting with Discord, Spotify, YouTube, and audio processing.
 
+![](bot_demo.JPG)
+
 ## Features
 - Plays music from Spotify playlists or individual tracks.
 - Searches YouTube for the requested song and plays the first result.
